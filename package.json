@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "node-opus": "^0.3.3",
+    "ytdl": "^1.4.1"
   }
 }
