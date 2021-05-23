@@ -1,4 +1,4 @@
-# call-timer-discord-bot
+# Call Timer Bot for Discord
 A discord bot which can be called a numnber of n minutes.
 Will automatically join the VC of the user who called it, and then after n-1 minutes, play a warning notification before kicking everyone from the call at n minutes.
 
